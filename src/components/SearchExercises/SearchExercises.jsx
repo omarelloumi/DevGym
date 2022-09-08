@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Box, Button, Stack, TextField, Typography } from '@mui/material';
-
+import './styles.css'
 
 const SearchExercises = () => {
   const [search, setSearch] = useState('')
