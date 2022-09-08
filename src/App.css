@@ -1,0 +1,15 @@
+body {
+    font-family: 'Josefin Sans';
+    background-color: #FFFAFB;
+  }
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  
+  }
+  
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
