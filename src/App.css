@@ -13,14 +13,3 @@ body {
 ::-webkit-scrollbar {
     width: 0px;
 }
-
-.hero-banner-img {
-  width: 90%;
-  height:650px;
-}
-
-@media screen and (max-width:600px) {
-  .hero-banner-img {
-    display: none;
-  }
-}
