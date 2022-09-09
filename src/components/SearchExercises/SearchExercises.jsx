@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Box, Button, Stack, TextField, Typography } from '@mui/material';
 import './styles.css'
-import { exerciseOptions, fetchData } from '../utils/fetchData';
+import { exerciseOptions, fetchData } from '../../utils/fetchData';
 
 const SearchExercises = () => {
   const [search, setSearch] = useState('')
